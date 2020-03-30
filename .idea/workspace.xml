@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3cc2c94e-808f-4147-93fb-96bab6788501" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/comillas/mibd/AA_ConectionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/comillas/mibd/AA_ConectionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/comillas/mibd/BA_StatementExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/comillas/mibd/BA_StatementExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/comillas/mibd/BB_ReadExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/comillas/mibd/BB_ReadExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/comillas/mibd/BC_WriteExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/comillas/mibd/BC_WriteExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/comillas/mibd/BD_DeleteExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/comillas/mibd/BD_DeleteExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/comillas/mibd/BE_UpdateExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/comillas/mibd/BE_UpdateExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/comillas/mibd/ZA_Ejercicios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/comillas/mibd/ZA_Ejercicios.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Zfoh0Pml0DSP6EucxP3lFHZMPx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.BB_ReadExample">
+    <configuration name="AA_ConectionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.comillas.mibd.AA_ConectionExample" />
+      <module name="cassandraapi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.comillas.mibd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BA_StatementExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.comillas.mibd.BA_StatementExample" />
+      <module name="cassandraapi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.comillas.mibd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BB_ReadExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.comillas.mibd.BB_ReadExample" />
+      <module name="cassandraapi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.comillas.mibd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BB_ReadExample" />
+        <item itemvalue="Application.BA_StatementExample" />
+        <item itemvalue="Application.AA_ConectionExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cc2c94e-808f-4147-93fb-96bab6788501" name="Default Changelist" comment="" />
+      <created>1585239624263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585239624263</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1804" height="399" key="GridCell.Tab.0.bottom" timestamp="1585240492023">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="399" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1585240492023" />
+    <state width="1804" height="399" key="GridCell.Tab.0.center" timestamp="1585240492022">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="399" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1585240492022" />
+    <state width="1804" height="399" key="GridCell.Tab.0.left" timestamp="1585240492021">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="399" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1585240492021" />
+    <state width="1804" height="399" key="GridCell.Tab.0.right" timestamp="1585240492022">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="399" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1585240492022" />
+  </component>
+</project>
